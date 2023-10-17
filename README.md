@@ -1,2 +1,2 @@
-# CD-Lab
+# CD Lab
 Compiler Design Lab
